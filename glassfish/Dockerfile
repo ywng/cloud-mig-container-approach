@@ -4,7 +4,7 @@
 #Version 1
 FROM glassfish:latest
 MAINTAINER jason.ng "ywn202@nyu.edu"
-COPY archemy.ear /
+COPY ~/archemy.ear /
 #COPY start.sh /
 EXPOSE 8080
 EXPOSE 4848

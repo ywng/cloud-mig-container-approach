@@ -1,6 +1,2 @@
-# cloud-mig-container-approach
-Migrate complex business application to cloud by container approach
-
-### Documenting the Procedures
-https://paper.dropbox.com/doc/Archemy-Cloud-Migration-wKyQSipoFrXBBEfMW9IuU?_tk=share_copylink
-
+# tomcatdocker
+A custom build for to install Fortress-WEB and Fortress-REST on Docker - Be sure to edit fortress.properties!
